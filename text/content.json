@@ -1,1 +1,79 @@
-{} 
+{
+  "home": {
+    "hero": {
+      "title": "Konst i olja och akvarell",
+      "text": "Mina målningar är främst inspirerade av Nordens natursköna landskap och naturens skiftningar under året. Välkommen att utforska galleriet och ta del av min konst!",
+      "button-1": "Utforska galleriet",
+      "button-2": "Kontakta mig"
+    },
+    "galleryPreview": {
+      "top-title": "Galleri",
+      "title": "Utvalda verk",
+      "text": "I galleriet hittar du ett urval av mina verk, vilka kännetecknas av klara färger och naturtrogna motiv. Jag arbetar främst med olja och akvarell, och försöker ge målningarna liv med mina penseldrag.",
+      "button": "Till galleriet"
+    },
+    "aboutPreview": {
+      "top-title": "Om mig",
+      "title": "Konst från vackra Norden",
+      "text": "Jag är en hobbykonstnär bosatt på Åland. Skärgården med vackra himlar över klippor och hav är en stor inspirationskälla för mig. Naturens grönska och blomster i olika miljöer och hur de förändras under året lika så."
+    }
+  },
+
+  "about": {
+    "title": "Om mig",
+    "text": "Skapande har alltid varit en drivkraft hos mig: bildkonst, skrivande, handarbete, matlagning och bakning. De fem senaste åren har jag låtit målandet ta överhanden. Det var ett sätt att hitta tillbaka till mitt genuina själv och till något som skänkt mig glädje hela livet.
+<br><br>
+Som barn inspirerades jag av Monet och impressionismen som vi lärde oss om i skolan. Jag försökte ta till mig den duttdutt-teknik som de pratat om. Att jag var och är väldigt petig med detaljer och fastnar i att det ska vara naturtroget gjorde att resultatet inte blev så impressionistiskt som jag hade föreställt mig.
+<br><br>
+Jag utvecklas fortfarande i mitt målande; jag experimenterar och prövar olika stilar och tekniker. Med oljefärg känner jag mig bekväm, för då har jag kontrollen. Akvarell är däremot ett ganska nytt medium för mig och jag tränar fortfarande på att tämja vattnet.",
+    "timeline-title": "Min konstnärliga resa",
+    "timeline-items": [
+      {
+        "year": "1994",
+        "text": "Jag föds i Korsnäs, Finland."
+      },
+      {
+        "year": "2007",
+        "text": "Vi flyttar till Åland och genom nya bekantskaper går jag från att rita till att teckna och måla."
+      },
+      {
+        "year": "2010-2020",
+        "text": "Jag börjar studera och målandet går i stå."
+      },
+      {
+        "year": "2021",
+        "text": "Jag återupptar målandet genom att gå en kurs i oljemåleri."
+      },
+      {
+        "year": "2023",
+        "text": "För att utmana mig själv börjar jag en kurs i akvarellmåleri."
+      }
+    ],
+    "techniques-title": "Tekniker & material",
+    "techniques-items": {
+      [
+      "title": "Oljemålning",
+      "text": "Arbetar med vattenlöslig oljefärg på duk. Använder både penslar och palettkvin för att skapa textur."
+      ],
+      [
+      "title": "Akvarell",
+      "text": "Målar med akvarellfärger på akvarellpapper med olika gräng. Experimenterar och utforskar olika tekniker."
+      ],
+      [
+      "title": "Komposition",
+      "text": "Gör noggranna skisser och jobbar mestadels utgående från fotografier, vilka jag tagit själv."
+      ]
+    }
+  },
+
+  "gallery": {
+    "title-oil": "Oljemålningar",
+    "title-watercolor": "Akvareller"
+  },
+
+  "contact": {
+    "top-title": "Kontakt",
+    "title": "Låt oss prata om konst",
+    "text": "Intresserad av att beställa en målning eller har frågor om mina verk? Tveka inte att höra av dig!"
+  }
+}
