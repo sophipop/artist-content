@@ -46,20 +46,20 @@
       }
     ],
     "techniques-title": "Tekniker & material",
-    "techniques-items": {
-      [
+    "techniques-items": [
+      {
       "title": "Oljemålning",
       "text": "Arbetar med vattenlöslig oljefärg på duk. Använder både penslar och palettkvin för att skapa textur."
-      ],
-      [
+      },
+      {
       "title": "Akvarell",
       "text": "Målar med akvarellfärger på akvarellpapper med olika gräng. Experimenterar och utforskar olika tekniker."
-      ],
-      [
+      },
+      {
       "title": "Komposition",
       "text": "Gör noggranna skisser och jobbar mestadels utgående från fotografier, vilka jag tagit själv."
-      ]
-    }
+      }
+    ]
   },
 
   "gallery": {
