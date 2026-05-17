@@ -190,7 +190,7 @@
       "size": "A3",
       "price": "900 €",
       "sold": false,
-      "private": false,
+      "private": true,
       "description": "",
       "image": "city_bergen.jpg"
     },
