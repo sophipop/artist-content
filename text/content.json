@@ -1,4 +1,9 @@
 {
+  "header": {
+    "about": "Om mig",
+    "contact": "Kontakt",
+    "gallery": "Galleri"
+  },
   "home": {
     "hero": {
       "title": "Konst i olja och akvarell",
