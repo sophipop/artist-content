@@ -1,6 +1,18 @@
 {
   "oilPaintings": [
             {
+      "title": "Vår på norrhavet",
+      "year": "2026",
+      "date": "2026-06-08",
+      "medium": "Akvarell",
+      "size": "A3",
+      "price": "",
+      "sold": false,
+      "private": true,
+      "description": "",
+      "image": "IMG_2076.jpeg"
+    },
+            {
       "title": "Hemma på vår gata i stan",
       "year": "2026",
       "date": "2026-05-24",
