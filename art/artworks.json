@@ -1,5 +1,17 @@
 {
   "oilPaintings": [
+    {
+      "title": "Midsommarblomster",
+      "year": "2026",
+      "date": "2026-06-19",
+      "medium": "Akvarell",
+      "size": "A3",
+      "price": "100 €",
+      "sold": false,
+      "private": "",
+      "description": "",
+      "image": "IMG_2089.jpeg"
+    },
             {
       "title": "Vår på norrhavet",
       "year": "2026",
