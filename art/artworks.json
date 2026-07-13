@@ -183,11 +183,23 @@
   ],
   "watercolorPaintings": [
        {
+      "title": "Sommarbukett",
+      "year": "2026",
+      "date": "2026-07-9",
+      "medium": "Akvarell",
+      "size": "A3",
+      "price": "150 €",
+      "sold": false,
+      "private": "",
+      "description": "",
+      "image": "IMG_2481.jpeg"
+    },
+       {
       "title": "Vågar du?",
       "year": "2026",
       "date": "2026-07-10",
       "medium": "Akvarell",
-      "size": "A3",
+      "size": "A4",
       "price": "100 €",
       "sold": false,
       "private": "",
@@ -199,7 +211,7 @@
       "year": "2026",
       "date": "2026-06-19",
       "medium": "Akvarell",
-      "size": "A3",
+      "size": "A4",
       "price": "100 €",
       "sold": false,
       "private": "",
