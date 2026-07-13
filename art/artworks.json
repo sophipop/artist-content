@@ -1,41 +1,5 @@
 {
   "oilPaintings": [
-    {
-      "title": "",
-      "year": "2026",
-      "date": "2026-07-10",
-      "medium": "Akvarell",
-      "size": "A3",
-      "price": "100 €",
-      "sold": false,
-      "private": "",
-      "description": "",
-      "image": "IMG_2486.jpeg"
-    },
-    {
-      "title": "Midsommarblomster",
-      "year": "2026",
-      "date": "2026-06-19",
-      "medium": "Akvarell",
-      "size": "A3",
-      "price": "100 €",
-      "sold": false,
-      "private": "",
-      "description": "",
-      "image": "IMG_2089.jpeg"
-    },
-            {
-      "title": "Vår på norrhavet",
-      "year": "2026",
-      "date": "2026-06-08",
-      "medium": "Akvarell",
-      "size": "A3",
-      "price": "",
-      "sold": false,
-      "private": true,
-      "description": "",
-      "image": "IMG_2076.jpeg"
-    },
             {
       "title": "Hemma på vår gata i stan",
       "year": "2026",
@@ -243,7 +207,7 @@
       "image": "IMG_2089.jpeg"
     },
             {
-      "title": "Vår på norrhavet",
+      "title": "Vår på Norrhavet",
       "year": "2026",
       "date": "2026-06-08",
       "medium": "Akvarell",
